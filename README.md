@@ -1,0 +1,2 @@
+# PhishGuard-Pro-Multi-Layered-Anti-Scam-DDoS-Mitigation-Engine
+PhishGuard is an active defense system designed to identify and neutralize phishing threats through automated content analysis and traffic rate-limiting. It doesn't just block malicious IPs—it uses an intelligent scoring engine to "fingerprint" scam content and visualizes threats in real-time to protect end-users from financial fraud.

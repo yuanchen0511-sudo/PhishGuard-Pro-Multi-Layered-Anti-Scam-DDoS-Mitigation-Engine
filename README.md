@@ -14,11 +14,15 @@ PhishGuard is an active defense system designed to identify and neutralize phish
 
 ## 📸 Screenshots
 ### 1. Dashboard & Content Analysis
-![Scam Detection Dashboard](./scam_cloud.png)
+<img width="811" height="303" alt="scoring_engine_screenshot" src="https://github.com/user-attachments/assets/35d4e52b-cdfc-404b-8c16-43e7a6750bf6" />
+
+<img width="801" height="249" alt="data_layer_screenshot" src="https://github.com/user-attachments/assets/54d8ace4-9113-4a45-b706-80312fde717f" />
+
 *Real-time keyword analysis and risk scoring.*
 
 ### 2. Performance Monitoring
-![Latency Chart](./performance_chart.png)
+<img width="390" height="250" alt="defense_layer_screenshot" src="https://github.com/user-attachments/assets/e8248761-5115-4dcb-b62b-6e48e3b6c313" />
+
 *Tracking server response time during automated request simulations.*
 
 ## 🚀 How to Run
